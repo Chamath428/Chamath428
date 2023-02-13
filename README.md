@@ -1,8 +1,7 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="" width="400" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="200" width="400" />
 </div>  
   
-
 ### <div align="center">I'm Chamath Chinthana. Welcome to my profile</div>  
   
 
@@ -106,5 +105,3 @@ as a full-stack developer at NIMI Tech Limited
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
