@@ -1,8 +1,8 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="200" width="400" />
 </div>  
-  
-### <div align="center">I'm Chamath Chinthana. Welcome to my profile</div>  
+
+<div align="center">I'm Chamath Chinthana. Welcome to my profile</div>  
   
 
 - Software engineer intern and
