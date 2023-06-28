@@ -5,8 +5,8 @@
 <div align="center">I'm Chamath Chinthana. Welcome to my profile</div>  
   
 
-- Software engineer intern and
-as a full-stack developer at NIMI Tech Limited  
+- Associative Software Engineer NIMI Tech Limited
+ 
   
 
 - Undergraduate at University of Colombo School Of Computing  
