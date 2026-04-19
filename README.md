@@ -5,11 +5,11 @@
 <div align="center">I'm Chamath Chinthana. Welcome to my profile</div>  
   
 
-- Associative Software Engineer NIMI Tech Limited
+- Software Engineer Vitalfew
  
   
 
-- Undergraduate at University of Colombo School Of Computing  
+- Undergraduate at the University of Colombo School Of Computing  
   
 
 <br/>  
